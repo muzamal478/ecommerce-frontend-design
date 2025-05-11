@@ -4,7 +4,7 @@
 This README documents the Week 1 deliverables for the eCommerce website project, focusing on the implementation of the header and footer. The goal was to create a responsive, user-friendly, and visually consistent header and footer that match the provided Figma UI design.
 
 # Live Demo:
-- Your site is live [Live Demo](https://muzamal478.github.io/ecommerce-frontend-design/)
+- Click Here [Live Demo](https://muzamal478.github.io/ecommerce-frontend-design/)
 
 ### Features
 - **Header**:
